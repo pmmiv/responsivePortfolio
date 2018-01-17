@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+	* {
+		box-sizing: border-box;
+	}
+
+	.innerHead {
+		padding: 0 0px;
+	}
+
+	.container {
+		padding-left: 15px;
+		padding-right: 25px;
+	}
+
+	.primaryBox {
+		width: 728px;
+		margin-bottom: 20px;
+	}
+
+	.socialBox {
+		width: 728px;
+		margin-bottom: 20px;
+	}
+}
