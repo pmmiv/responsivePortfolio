@@ -1,3 +1,61 @@
 @media screen and (max-width: 640px) {
+		* {
+		box-sizing: border-box;
+	}
 
-} }
+	.innerHead {
+		padding: 0 0px;
+	}
+
+	.leftHead {
+		width: 100%;
+	}
+
+	.container {
+		padding-left: 15px;
+		padding-right: 25px;
+	}
+
+	.primaryBox {
+		width: 600px;
+		margin-bottom: 20px;
+	}
+
+	.socialBox {
+		width: 600px;
+		margin-bottom: 20px;
+	}
+
+	.socialBtn {
+		width: 15%;
+	}
+
+	header {
+		height: 80px;
+	}
+
+	.container {
+		padding-top: 100px;
+	}
+
+	.rightHead {
+		position: relative;
+		right: 202px;
+		top: 8px;
+	}
+
+	.hs {
+		float: none;
+		max-width: 300px;
+		margin-left: 150px;
+		margin-bottom: 10px;
+	}
+
+	.portBtn {
+		width: 400px;
+	}
+
+	.leftCol, .rightCol {
+		margin-left: 100px;
+	}
+}

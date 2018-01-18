@@ -21,4 +21,29 @@
 		width: 728px;
 		margin-bottom: 20px;
 	}
+
+	.socialBtn {
+		width: 15%;
+	}
+
+	.hs {
+	max-width: 190px;
+	float: left;
+	margin-right: 20px;
+	margin-left: 0px;
+	}
+
+	.leftCol {
+		margin-left: 38px;
+		margin-right: 20px;
+	}
+
+	.rightCol {
+		margin-right: 38px;
+		margin-left: 20px;
+	}
+
+	.portBtn {
+	width: 285px;
+}
 }
